@@ -2,10 +2,12 @@
 
 Vue component for [Feather](https://feathericons.com)
 
+Patched version from @ChikuwaJB.
+
 ## install
 
 ```shell
-npm install vue-feather-icon
+yarn add https://github.com/MickaelBergem/vue-feather-icon.git
 ```
 
 ## usage
